@@ -1,4 +1,4 @@
-# Job-Knock-Software-Engineer
+# Quick Try Workdshop - Software Engineer
 
 1. Skill development
     - Learn basic web development
