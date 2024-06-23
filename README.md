@@ -1,4 +1,4 @@
-# Quick Try Workdshop - Software Engineer
+# QuickTry Workdshop - Software Engineer
 
 1. Skill development
     - Learn basic web development
